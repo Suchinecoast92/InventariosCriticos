@@ -2,19 +2,19 @@
 
 Sistema completo de gestión y trazabilidad del limón, abarcando desde la siembra hasta la venta final, con base de datos federada.
 
-## 🌟 Características Principales
+## Características Principales
 
-- ✅ **Gestión Completa de Siembras** - CRUD y reportes detallados
-- ✅ **Gestión de Cosechas** - Control de producción por zona
-- ✅ **Gestión de Lotes** - Empaque y control de disponibilidad
-- ✅ **Gestión de Ventas** - Integración con datos federados de clientes
-- ✅ **Gestión de Mermas** - Registro y análisis de pérdidas
-- ✅ **Gestión de Clientes** - CRUD completo en servidor remoto
-- ✅ **Trazabilidad por Lote** - Seguimiento completo del ciclo de vida
-- ✅ **Reportes con JOINs** - Análisis detallados en cada módulo
-- ✅ **Base de Datos Federada** - Integración servidor-local para clientes
+- **Gestión Completa de Siembras** - CRUD y reportes detallados
+- **Gestión de Cosechas** - Control de producción por zona
+- **Gestión de Lotes** - Empaque y control de disponibilidad
+- **Gestión de Ventas** - Integración con datos federados de clientes
+- **Gestión de Mermas** - Registro y análisis de pérdidas
+- **Gestión de Clientes** - CRUD completo en servidor remoto
+- **Trazabilidad por Lote** - Seguimiento completo del ciclo de vida
+- **Reportes con JOINs** - Análisis detallados en cada módulo
+- **Base de Datos Federada** - Integración servidor-local para clientes
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 SistemaLIMON/
@@ -44,7 +44,7 @@ SistemaLIMON/
 └── index.php               # Página principal
 ```
 
-## 🚀 Instalación
+## Instalación
 
 ### 1. Requisitos Previos
 - XAMPP con PHP 7.4+ y MySQL
@@ -258,3 +258,4 @@ Para asistencia adicional, revisar los comentarios en el código fuente o contac
 
 ---
 **© 2024 Sistema de Trazabilidad del Limón**
+
